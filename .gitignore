@@ -1,0 +1,12 @@
+
+*.class
+*.jar
+*.war
+*.log
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+contacts_db.txt
